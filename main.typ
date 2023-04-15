@@ -46,8 +46,8 @@
 
 #include "1-profile.typ"
 #include "2-education.typ"
-#include "3-skills.typ"
-#include "4-activities.typ"
+#include "3-activities.typ"
+#include "4-skills.typ"
 
 #colbreak()
 
