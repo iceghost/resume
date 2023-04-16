@@ -5,11 +5,12 @@
 / Links: #link("https://iceghost.github.io/ve-bbt")[Demo]
     #sym.dot.c #link("https://github.com/iceghost/ve-bbt")[Source].
 / Role: Fullstack Developer.
-/ Language: Elm, Tailwind CSS.
+/ Language: Elm.
 
 This tool parses simple monotonicity table construction language and
-generates MathJax/LaTeX code, using functional programming. This saves a lot
-of time spent making those tables by hand.
+generates MathJax/LaTeX code. This saves a lot of time spent making those
+tables by hand.
 
-/ Users: High school students in online maths groups.
+This was my first usable piece of software.
+
 / Result: My underclassmen and friends used and liked it.

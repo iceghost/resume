@@ -1,17 +1,25 @@
-#let separator = line(length: 100%, stroke: 1pt + gray.lighten(80%))
+#[
+    #let separator = line(length: 100%, stroke: 1pt + gray.lighten(80%))
+    #show heading.where(level: 3): it => [
+        #show "[": set text(fill: gray)
+        #show "]": set text(fill: gray)
 
-== Projects
+        [#it.body]
+    ]
 
-#block(include("5-projects/1-bkalendar.typ"))
+    == Projects
 
-#separator
+    #block(include("5-projects/1-bkalendar.typ"))
 
-#block(include("5-projects/2-document-repo.typ"))
+    #separator
 
-#separator
+    #block(include("5-projects/2-document-repo.typ"))
 
-#block(include("5-projects/3-examinator.typ"))
+    #separator
 
-#separator
+    #block(include("5-projects/3-examinator.typ"))
 
-#block(include("5-projects/4-monoticity.typ"))
+    #separator
+
+    #block(include("5-projects/4-monoticity.typ"))
+]

@@ -2,7 +2,7 @@
 #set block(width: 100%)
 #set terms(separator: [: ], hanging-indent: 0em)
 #set par(linebreaks: "optimized")
-#set text(hyphenate: false, size: 9pt)
+#set text(hyphenate: false, size: 10pt)
 
 #show heading.where(level: 2): set block(
     inset: (top: .5em, bottom: .5em),

@@ -11,5 +11,7 @@ Tien with HCMUT students and focuses on custom components such as
 emphasis on important information and interactive quizzes. Students can
 easily access learning materials to get better academic results.
 
-/ Users: HCMUT students learning general subjects.
-/ Result: \~500 visits every day.
+I learned about the bus factor and the value of internal documentation
+in Software Engineering for ensuring maintainability through this project.
+
+/ Result: \~500 visits every day during Oct 2021 to Dec 2021.
