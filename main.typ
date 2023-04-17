@@ -1,4 +1,4 @@
-#set page(paper: "a4", margin: (x: 1cm, bottom: 1cm, top: 1cm))
+#set page(paper: "a4", margin: (x: 1cm, bottom: 1.5cm, top: 1.5cm))
 #set block(width: 100%)
 #set terms(separator: [: ], hanging-indent: 0em)
 #set par(linebreaks: "optimized")

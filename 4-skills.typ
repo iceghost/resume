@@ -11,9 +11,9 @@
 #block[
     === System Programming
 
-    I gained experience in low-level memory management and network
-    programming from university courses. I am comfortable with C++ and
-    proficient in Rust.
+    I gained experience in low-level programming from my university courses,
+    such as manual memory management and network programming. I am
+    comfortable with C++ and Rust.
 ]
 
 #block[

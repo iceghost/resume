@@ -4,13 +4,14 @@
 
 / Links: #link("https://chungtacungtien.vercel.app")[Demo].
 / Role: Frontend Developer in a 4-person team.
-/ Technologies: NextJS, Tailwind CSS, Firebase.
 
-This website provides user interfaces for both examinees and exam authors
-to organize mock exams. This helps students experience mock examinations
-when COVID-19 was still around.
+This website provides user interfaces for both examinees and exam authors to
+organize mock exams. This helps students experience mock examinations when
+COVID-19 was still around.
 
-This was my first real-world team project. I learned how other people develop
-software through observing the team.
+_Result_: \~300 students participated per exam, with 4 exams per semester,
+over 2 semesters.
 
-/ Result: \~300 students / 1 exam and 4 exams / 1 semester over 2 semesters.
+This was my first real-world _team_ project. I learned the basics of working
+in a team, such as Git workflows, regular stand-up meetings and how different
+people develop software.
